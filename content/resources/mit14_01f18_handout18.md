@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/b70cb8ae01573aeb8daf34584588b168_MIT14_01F18_handout18.pdf
+file: /media/courses/14-01-principles-of-microeconomics-fall-2018/b70cb8ae01573aeb8daf34584588b168_MIT14_01F18_handout18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and Handouts
+parent_type: CourseSection
 resourcetype: Document
 title: MIT 14.01 F18 Lecture 18 Handout
 uid: b70cb8ae-0157-3aeb-8daf-34584588b168

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/2136d0c5f2da50fc926360b04ee41526_TSYNHb6YBEE.vtt
+file: /media/courses/14-01-principles-of-microeconomics-fall-2018/2136d0c5f2da50fc926360b04ee41526_TSYNHb6YBEE.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 2136d0c5-f2da-50fc-9263-60b04ee41526

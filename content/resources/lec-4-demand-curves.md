@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Demand Curves and Income/Substitution Effects'
 uid: 4c6e8a17-5500-f93c-ac66-16faa8374128
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/785fc4ea2b695521971cfdf9dffbe210_x0scPosOsoI.vtt
+  video_captions_file: /courses/14-01-principles-of-microeconomics-fall-2018/785fc4ea2b695521971cfdf9dffbe210_x0scPosOsoI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/x0scPosOsoI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/5e7917fe8455c382b0932de05f5ec68e_x0scPosOsoI.pdf
+  video_transcript_file: /courses/14-01-principles-of-microeconomics-fall-2018/5e7917fe8455c382b0932de05f5ec68e_x0scPosOsoI.pdf
 video_metadata:
   youtube_id: x0scPosOsoI
 ---

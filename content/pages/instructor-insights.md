@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 3aefd229-bb73-b4fe-9e2c-569792c09f10
 ---
@@ -35,28 +37,6 @@ None, although some calculus at the level of [_18.01 Single Variable Calculus_](
 ### Offered
 
 Every semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![An empty lecture hall.]({{< resource_file 7826d251-f0f4-f02a-bb21-6f7ca1ee2ce1 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Classes were held in a lecture hall with tiered seating for 150, as well as A/V equipment and sliding chalkboards.
-    
-*   ![An empty medium-size classroom.]({{< resource_file 6519294b-0db3-dd6b-2ee4-cca52dae03b4 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in medium-size classrooms like the one pictured, with seating for about 40 students at shared tables, as well as A/V equipment and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

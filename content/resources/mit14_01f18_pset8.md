@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/ccdb5d491ff0b43e97edd4bf3b4eda44_MIT14_01F18_pset8.pdf
+file: /media/courses/14-01-principles-of-microeconomics-fall-2018/ccdb5d491ff0b43e97edd4bf3b4eda44_MIT14_01F18_pset8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 14.01 Fall 2018 Problem Set 8
 uid: ccdb5d49-1ff0-b43e-97ed-d4bf3b4eda44

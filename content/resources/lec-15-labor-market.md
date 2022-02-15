@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
-title: "Lecture 15: Input Markets I\u2014Labor Market \t\t\t\t"
+title: "Lecture 15: Input Markets I\u2014Labor Market     "
 uid: e2042f6f-075b-5b23-2588-6adb4722aa8e
 video_files:
   archive_url: https://archive.org/download/MIT14.01F18/MIT14_01F18_lec15_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/fd42f8b9edb358b39941159fe348fff0_6XhkCU8Rw_0.vtt
+  video_captions_file: /courses/14-01-principles-of-microeconomics-fall-2018/fd42f8b9edb358b39941159fe348fff0_6XhkCU8Rw_0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/6XhkCU8Rw_0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-01-principles-of-microeconomics-fall-2018/c5693815c89b0e061ad810c99ef0bdeb_6XhkCU8Rw_0.pdf
+  video_transcript_file: /courses/14-01-principles-of-microeconomics-fall-2018/c5693815c89b0e061ad810c99ef0bdeb_6XhkCU8Rw_0.pdf
 video_metadata:
   youtube_id: 6XhkCU8Rw_0
 ---
