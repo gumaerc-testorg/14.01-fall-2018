@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 3aefd229-bb73-b4fe-9e2c-569792c09f10
 resourcetype: Image
 title: Chalk_Radio.jpg
 uid: 25554eb5-7278-ed28-aa8d-d6ad93269386

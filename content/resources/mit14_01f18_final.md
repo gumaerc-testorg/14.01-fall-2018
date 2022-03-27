@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2f54fa67-140e-5f14-188c-01bd14beaf37
 resourcetype: Document
 title: 14.01 Fall 2018 Final Exam
 uid: ca1f5b78-6df7-3419-79d8-15681fba3447

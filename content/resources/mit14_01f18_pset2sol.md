@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f5fc574e-08b4-b7ee-b1eb-cb08aac59627
 resourcetype: Document
 title: 14.01 Fall 2018 Problem Set 2 Solutions
 uid: 5558860f-e9ad-8d3c-5d7a-2d5d26c849e4

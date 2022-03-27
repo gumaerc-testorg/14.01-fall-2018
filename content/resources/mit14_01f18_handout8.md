@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Handouts
 parent_type: CourseSection
+parent_uid: e4635a41-3517-f55c-518f-491dae1f8f0a
 resourcetype: Document
 title: MIT 14.01 F18 Lecture 8 Handout
 uid: e866cc46-534a-4122-dc0e-e58769acdf92
