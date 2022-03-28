@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 4: Demand Curves and Income/Substitution Effects'
 uid: 4c6e8a17-5500-f93c-ac66-16faa8374128
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-Prof. Gruber begins the lecture by explaining how to derive demand curves. Other topics covered include elasticity of demand, income shifts, and effects of a price change. See [Handout 4]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+Prof. Gruber begins the lecture by explaining how to derive demand curves. Other topics covered include elasticity of demand, income shifts, and effects of a price change. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 4" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

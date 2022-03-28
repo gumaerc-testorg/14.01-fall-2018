@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 18: Increasing Savings & Introduction to Trade    '
 uid: 153071a9-0574-140d-01d1-9f8612e19fba
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This video covers increasing savings, an important element of growth in an economy, as well as an introduction to international trade. See [Handout 18]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This video covers increasing savings, an important element of growth in an economy, as well as an introduction to international trade. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 18" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

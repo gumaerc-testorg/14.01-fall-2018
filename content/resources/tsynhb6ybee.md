@@ -5,6 +5,7 @@ file: /media/courses/14-01-principles-of-microeconomics-fall-2018/6edd120ec9d78c
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 6edd120e-c9d7-8c58-baa5-2172890b8955

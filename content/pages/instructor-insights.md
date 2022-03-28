@@ -3,6 +3,7 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
+parent_uid: null
 title: Instructor Insights
 uid: 3aefd229-bb73-b4fe-9e2c-569792c09f10
 ---
@@ -25,7 +26,7 @@ Curriculum Information
 
 ### Prerequisites
 
-None, although some calculus at the level of [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010/) is used in the course.
+None, although some calculus at the level of [_18.01 Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) is used in the course.
 
 ### Requirements Satisfied
 

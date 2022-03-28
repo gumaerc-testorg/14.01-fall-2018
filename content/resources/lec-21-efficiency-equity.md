@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 21: Efficiency and Equity    '
 uid: cd11b313-9a79-ddfa-6fec-df5c32d07ff8
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-In this lecture, Prof. Gruber introduces the idea of equity and efficiency, including choosing the socially optimal allocation, inequality, and sources of leakage. See [Handout 21]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+In this lecture, Prof. Gruber introduces the idea of equity and efficiency, including choosing the socially optimal allocation, inequality, and sources of leakage. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 21" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

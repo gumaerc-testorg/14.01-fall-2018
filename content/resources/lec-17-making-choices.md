@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 17: Making Choices Over Time    '
 uid: e1d056ad-8fcd-e3fa-c604-9c11bd1a8723
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-In this lecture, Prof. Gruber continues talking about factor markets by explaining how capital markets influence real world decisions. See [Handout 17]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+In this lecture, Prof. Gruber continues talking about factor markets by explaining how capital markets influence real world decisions. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 17" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 5: Production Theory    '
 uid: b9d04200-b097-ceb2-ee54-8b0e6fd4a084
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This video introduces the second unit of the course about producer theory. Topics include the production function, short run production, long run production, rates of technical substitution, returns to scale, and productivity. See [Handout 5]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This video introduces the second unit of the course about producer theory. Topics include the production function, short run production, long run production, rates of technical substitution, returns to scale, and productivity. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 5" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

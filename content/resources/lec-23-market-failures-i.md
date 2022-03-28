@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 23: Market Failures I: Externalities    '
 uid: a36920c5-18f3-5340-e124-a0e716b90e84
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This lectures covers externalities, which are the costs or benefits that affect a party who did not choose to incur those costs or benefits. Other topics include government solutions and government policy. See [Handout 23]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This lectures covers externalities, which are the costs or benefits that affect a party who did not choose to incur those costs or benefits. Other topics include government solutions and government policy. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 23" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

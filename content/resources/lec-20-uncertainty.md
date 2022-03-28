@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 20: Uncertainty    '
 uid: d51a04b5-e0b3-0bb7-76ed-972e375ee3b9
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This video explains the economic concept of decision making under uncertainty. See [Handout 20]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This video explains the economic concept of decision making under uncertainty. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 20" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

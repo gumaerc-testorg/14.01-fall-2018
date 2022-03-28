@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: "Lecture 15: Input Markets I\u2014Labor Market     "
 uid: e2042f6f-075b-5b23-2588-6adb4722aa8e
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This lecture covers factor markets, the markets that set the price for labor and capital. Prof. Gruber begins by talking about factor demand, then continues with factor supply. See [Handout 15]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture. 
+This lecture covers factor markets, the markets that set the price for labor and capital. Prof. Gruber begins by talking about factor demand, then continues with factor supply. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 15" >}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber

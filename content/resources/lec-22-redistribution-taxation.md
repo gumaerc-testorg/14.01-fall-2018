@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 22: Government Redistribution and Taxation    '
 uid: 689495e9-ea83-9ede-64de-4694bc0da543
 video_files:
@@ -27,6 +27,6 @@ video_metadata:
 Description
 -----------
 
-This lecture continues the discussion about equity and efficiency by talking about taxation in the United States and redistribution programs. See [Handout 22]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture.
+This lecture continues the discussion about equity and efficiency by talking about taxation in the United States and redistribution programs. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 22" >}} for relevant graphs for this lecture.
 
 **Instructor:** Prof. Jonathan Gruber
