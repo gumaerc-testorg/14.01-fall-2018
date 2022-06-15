@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Preference and Utility Functions'
 uid: dd238fb3-0945-0d07-030e-4a6be8ac37a1
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-This video focuses on the demand curve, derived from how consumers make choices, and the supply curve, which is how firms make production decisions. Please see {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 2" >}} for relevant graphs for this lecture. 
+This video focuses on the demand curve, derived from how consumers make choices, and the supply curve, which is how firms make production decisions. Please see {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 2" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Costs    '
 uid: e2c351f2-0263-faf9-f233-f5f9d9225620
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-This lecture continues the discussion on producer theory and short run and long run cost curves. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 6" >}} for relevant graphs for this lecture. 
+This lecture continues the discussion on producer theory and short run and long run cost curves. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 6" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

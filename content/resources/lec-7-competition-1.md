@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Competition I'
 uid: 03ce9e68-d110-8f8d-cc92-c078498d4f85
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-This lecture finishes the discussion about costs from Lecture 6, and then the instructor explains perfect competition and short-run profit maximization. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 7" >}} for relevant graphs for this lecture. 
+This lecture finishes the discussion about costs from Lecture 6, and then the instructor explains perfect competition and short-run profit maximization. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 7" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

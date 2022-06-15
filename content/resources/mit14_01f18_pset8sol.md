@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-01-principles-of-microeconomics-fall-2018/f7891ee49414ba96445d527306d08ab9_MIT14_01F18_pset8sol.pdf
+file: /courses/14-01-principles-of-microeconomics-fall-2018/f7891ee49414ba96445d527306d08ab9_MIT14_01F18_pset8sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

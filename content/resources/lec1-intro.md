@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction and Supply & Demand'
 uid: fdffa03d-0958-23ea-75ee-7f12d6af6829
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-In this video, Prof. Gruber discusses the details of the course, what microeconomics is, and the concept of supply and demand. Please see {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 1" >}} for relevant graphs for this lecture.  
+In this video, Prof. Gruber discusses the details of the course, what microeconomics is, and the concept of supply and demand. Please see {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 1" %}} for relevant graphs for this lecture.  
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

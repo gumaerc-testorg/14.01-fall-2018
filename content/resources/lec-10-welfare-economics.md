@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Welfare Economics    '
 uid: 0c66d16d-b27a-737a-4c7d-3cc52ab45acc
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-This lecture covers the fundamentals of welfare economics, including how competition maximizes welfare and government interventions. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 10" >}} for relevant graphs for this lecture.
+This lecture covers the fundamentals of welfare economics, including how competition maximizes welfare and government interventions. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 10" %}} for relevant graphs for this lecture.
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

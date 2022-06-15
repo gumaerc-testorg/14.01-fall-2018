@@ -27,6 +27,9 @@ video_metadata:
 Description
 -----------
 
-This lecture continues the discussion about consumer choice and what happens when budget constraints are introduced. See [Handout 3]({{< baseurl >}}/pages/lecture-notes) for relevant graphs for this lecture.  
+This lecture continues the discussion about consumer choice and what happens when budget constraints are introduced. See {{% resource_link "e4635a41-3517-f55c-518f-491dae1f8f0a" "Handout 3" %}} for relevant graphs for this lecture.  
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+

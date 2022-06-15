@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Monopoly I    '
 uid: 2db9d08b-52aa-3224-669f-59296b1039e1
 video_files:
@@ -27,6 +28,9 @@ video_metadata:
 Description
 -----------
 
-In this lecture, Prof. Gruber takes what the class has already learned and applies it to more realistic situations, specifically monopoly profit maximization and welfare effects. See {{< resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 11" >}} for relevant graphs for this lecture. 
+In this lecture, Prof. Gruber takes what the class has already learned and applies it to more realistic situations, specifically monopoly profit maximization and welfare effects. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 11" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
+
+
+
