@@ -1,17 +1,17 @@
 ---
 content_type: page
+description: 'This section contains information about the pedagogy of the class and
+  insights by the instructor. '
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
-parent_uid: null
 title: Instructor Insights
 uid: 3aefd229-bb73-b4fe-9e2c-569792c09f10
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Professor Jonathan Gruber describes various aspects of how he teaches _14.01 Principles of Microeconomics_.
 
@@ -21,8 +21,7 @@ Professor Gruber wants to train students to think like economists. Economics use
 
 {{< simplecast 9a268aeb-786b-4b91-8870-182889f8804a >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -30,10 +29,10 @@ None, although some calculus at the level of [_18.01 Single Variable Calculus_](
 
 ### Requirements Satisfied
 
-*   GIR ![](/images/educator/icon-question-gir.png)
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   [Economics bachelor’s degree requirement](https://economics.mit.edu/under/majors/14-1)
-*   [Planning bachelor’s degree requirement](http://catalog.mit.edu/degree-charts/planning-course-11/)
+- GIR ![](/images/educator/icon-question-gir.png)
+- HASS ![](/images/educator/icon-question-hass.png)
+- [Economics bachelor’s degree requirement](https://economics.mit.edu/under/majors/14-1)
+- [Planning bachelor’s degree requirement](http://catalog.mit.edu/degree-charts/planning-course-11/)
 
 ### Offered
 
@@ -41,30 +40,21 @@ Every semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
 - 25% Ten problem sets; only the nine highest scores count toward the final grade
 - 25% Mid-term exam
 - 50% Final exam
 
-{{< tdclose >}}
+## Student Information
 
-{{< trclose >}}
+### Enrollment
 
-{{< tableclose >}}
-
-Student Information
--------------------
-
-![165 students took this course when it was taught in Fall 2018.]({{< resource_file 26b7a799-f289-88a1-f2b9-cb1d73776067 >}})
+165 students
 
 ### Breakdown by Year
 
@@ -76,35 +66,28 @@ The course attracts students from a variety of concentrations.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Prof. Gruber’s lecture classes met 2 times per week for 1 hour per session; 27 sessions total; mandatory attendance. Students taking the course in this format also had one recitation per week; students taking the course in an optional section format had three 1-hour section meetings per week in place of the lectures and recitation.
 
-Recitation
-----------
+### Recitation
 
 Recitations, conducted by the graduate TAs, met 1 time per week for 1 hour per session; these sessions introduced new material in addition to reviewing material from the lectures.
 
-Out of Class
-------------
+### Out of Class
 
 Students spent time out of class completing problem sets and studying for exams.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Professor Gruber
-----------------
+### Professor Gruber
 
 Delivering lectures; holding regular office hours
 
-Teaching Assistants (5) 
-------------------------
+### Teaching Assistants (5) 
 
 Teaching MWF sections of the course for students in the section format; leading recitations for students in the lecture-and-recitation format; holding regular office hours.
