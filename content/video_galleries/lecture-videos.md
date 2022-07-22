@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: 'This section contains videos of the lectures that were held on campus. '
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos
 uid: d094fe93-f4c6-0112-fa2e-c4e9f851e61e
 videos:
