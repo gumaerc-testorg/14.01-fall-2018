@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 This lectures covers externalities, which are the costs or benefits that affect a party who did not choose to incur those costs or benefits. Other topics include government solutions and government policy. See {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 23" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
-
-
 

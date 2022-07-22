@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 In this lecture, Prof. Gruber uses the information taught in class to explain the real world example of health economics, and how it plays out in policy and practice. There is no handout for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
-
-
 

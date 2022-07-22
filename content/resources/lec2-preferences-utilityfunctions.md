@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 This video focuses on the demand curve, derived from how consumers make choices, and the supply curve, which is how firms make production decisions. Please see {{% resource_link e4635a41-3517-f55c-518f-491dae1f8f0a "Handout 2" %}} for relevant graphs for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
-
-
 

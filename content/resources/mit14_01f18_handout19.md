@@ -5,6 +5,7 @@ file: /courses/14-01-principles-of-microeconomics-fall-2018/8488b78412b828536b04
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Handouts
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/14-01-principles-of-microeconomics-fall-2018/ca1f5b786df7341979d8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

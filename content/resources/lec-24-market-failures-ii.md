@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 This lecture covers the topic of social insurance, which is government-provided insurance programs. Prof. Gruber also discusses the social insurance standoff and Social Security. There is no handout for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
-
-
 

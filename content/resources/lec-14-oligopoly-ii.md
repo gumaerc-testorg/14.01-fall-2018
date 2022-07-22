@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Description
 This video continues the discussion of oligopolies, covering the topics of cartels, comparing equilibria, many firms, and price competition. There is no handout for this lecture. 
 
 **Instructor:** Prof. Jonathan Gruber
-
-
 
