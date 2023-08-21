@@ -27,7 +27,3 @@ leftnav:
   name: Exams
   url: /pages/exams
   weight: 70
-- identifier: f6ce125f-9fe8-848d-7b63-3451826c627c
-  name: Recitations
-  url: /pages/recitations
-  weight: 80
