@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/25554eb57278ed28aa8dd6ad93269386_Chalk_Radio.jpg
+file_size: 61757
 file_type: image/jpeg
 image_metadata:
   caption: ''

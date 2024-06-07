@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/b94203c9b42676cb65f9308afe7c0536_1UtJGRojmIg.pdf
+file_size: 95081
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
