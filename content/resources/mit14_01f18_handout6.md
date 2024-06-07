@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/143005c6473c4c94285c48d236ec0569_MIT14_01F18_handout6.pdf
+file_size: 475164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
