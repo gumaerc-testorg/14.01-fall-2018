@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01-principles-of-microeconomics-fall-2018/740071447970d4cea476c2e49d1bc393_MIT14_01F18_midterm.pdf
+file_size: 148380
 file_type: application/pdf
 learning_resource_types:
 - Exams
