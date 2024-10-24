@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-01-principles-of-microeconomics-fall-2018/c88df965d3a2d5581c4a6fb3a170c3de_PC3qooaF5Xs.srt
+file: /ol-ocw-studio-app/courses/14-01-principles-of-microeconomics-fall-2018/c88df965d3a2d5581c4a6fb3a170c3de_PC3qooaF5Xs.srt
 file_size: 86347
 file_type: application/x-subrip
 learning_resource_types: []
