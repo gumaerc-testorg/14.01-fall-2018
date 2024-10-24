@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-01-principles-of-microeconomics-fall-2018/fc9acd3b3d985bd61b98ab7168ea3501_MIT14_01F18_handout11.pdf
+file: /ol-ocw-studio-app/courses/14-01-principles-of-microeconomics-fall-2018/fc9acd3b3d985bd61b98ab7168ea3501_MIT14_01F18_handout11.pdf
 file_size: 327393
 file_type: application/pdf
 learning_resource_types:
